@@ -21,8 +21,6 @@ A modern portfolio website built with cutting-edge web technologies to showcase 
 - Professional portfolio showcase
 - Tailwind CSS for modern styling
 
-
 ---
-
-**Live Site:** [masabbagh.netlify.app](https://masabbagh.netlify.app/)
+[![Portfolio Image](https://github.com/user-attachments/assets/52d846b1-ab17-4cc1-a8de-42f799be63b5)](https://masabbagh.netlify.app/)
 
